@@ -1,0 +1,9 @@
+feat: add dashboard, login, signup, and marketplace pages with authentication flow
+
+- Implemented Dashboard page with role-based content rendering and logout functionality.
+- Created Login page for user authentication with error handling and token storage.
+- Developed Signup page for new user registration with role selection and form validation.
+- Added Marketplace page to display job listings fetched from the backend.
+- Introduced How It Works page to explain the service process with animated steps.
+- Integrated Axios for API calls with a centralized API configuration file.
+- Updated package dependencies including axios, framer-motion, and lucide-react.
